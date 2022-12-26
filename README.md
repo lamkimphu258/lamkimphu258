@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Lâm Kim Phú. I come from Vietnam.
 - 👀 I’m interested in web development. Currently, I am full stack developer. My stack is:
   - PHP: Laravel, Symfony
-  - Javascript: React
+  - Javascript: React, Next.js
   - DB: MySQL, Redis, Elasticsearch 
   - Docker, Docker Compose 
   - Testing: unit test, integration test
